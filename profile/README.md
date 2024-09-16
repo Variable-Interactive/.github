@@ -1,5 +1,6 @@
 # To Change is Variable!
-We are an independent team of gamedevs that love science and games
+~~We are an independent team of gamedevs~~(Currently it's only me but well... i can dream right) that love science and games
+An organization i made to use as a host of more serious repositories.
 
 See our website at https://variable-interactive.github.io
 
