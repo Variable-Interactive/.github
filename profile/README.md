@@ -27,3 +27,6 @@ A download statistics chart for pixelorama extensions:
  
  KeyDisplay: <a href="https://github.com/Variable-Interactive/KeyDisplay/releases">
     <img src="https://img.shields.io/github/downloads/Variable-Interactive/KeyDisplay/total?color=lightgreen" alt="KeyDisplay" /></a>
+
+QuickDocs: <a href="https://github.com/Variable-Interactive/QuickDocks/releases">
+    <img src="https://img.shields.io/github/downloads/Variable-Interactive/QuickDocks/total?color=lightgreen" alt="QuickDocs" /></a>
