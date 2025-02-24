@@ -1,8 +1,9 @@
-# To Change is Variable!
-~~We are an independent team of gamedevs~~(Currently it's only me but well... i can dream right) that love science and games
-An organization i made to use as a host of more serious repositories.
+# Try new things—keep it Variable!
+I'm [Variable](https://github.com/Variable-ind), and i love science and games.
 
-See our website at https://variable-interactive.github.io
+This is an organization i made to use as a host for my more serious repositories.
+
+See my website at https://variable-interactive.github.io
 
 
 A download statistics chart for our pixelorama extensions:
