@@ -19,4 +19,5 @@ A list of my Pixelorama extensions (Can also be downloaded from within Pixeloram
 | LifeSaver | <a href="https://github.com/Variable-Interactive/PixeloramaLifeSaver/releases"><img src="https://img.shields.io/github/downloads/Variable-Interactive/PixeloramaLifeSaver/total?color=lightgreen" alt="PixeloramaLifeSaver"/></a> |
 | LineArt | <a href="https://github.com/Variable-Interactive/LineArt/releases"><img src="https://img.shields.io/github/downloads/Variable-Interactive/LineArt/total?color=lightgreen" alt="LineArt"/></a> |
 | QuickDocs | <a href="https://github.com/Variable-Interactive/QuickDocks/releases"><img src="https://img.shields.io/github/downloads/Variable-Interactive/QuickDocks/total?color=lightgreen" alt="QuickDocs"/></a> |
+| Skeletor | <a href="https://github.com/Variable-Interactive/Skeletor/releases"><img src="https://img.shields.io/github/downloads/Variable-Interactive/Skeletor/total?color=lightgreen" alt="Skeletor"/></a> |
 | TimeTracking | <a href="https://github.com/Variable-Interactive/TimeTracking/releases"><img src="https://img.shields.io/github/downloads/Variable-Interactive/TimeTracking/total?color=lightgreen" alt="TimeTracking"/></a> |
