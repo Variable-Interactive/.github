@@ -12,6 +12,7 @@ A list of my Pixelorama extensions (Can also be downloaded from within Pixeloram
 | -------- | ------- |
 | Audia | <a href="https://github.com/Variable-Interactive/Audia/releases"><img src="https://img.shields.io/github/downloads/Variable-Interactive/Audia/total?color=lightgreen" alt="Audia"/></a> |
 | CameraZoomer | <a href="https://github.com/Variable-Interactive/CameraZoomer/releases"><img src="https://img.shields.io/github/downloads/Variable-Interactive/CameraZoomer/total?color=lightgreen" alt="CameraZoomer"/></a> |
+|  ColorChecker | <a href="https://github.com/Variable-Interactive/PixeloramaColorChecker/releases"><img src="https://img.shields.io/github/downloads/Variable-Interactive/PixeloramaColorChecker/total?color=lightgreen" alt="PixeloramaColorChecker"/></a> |
 | DiscordRPC | <a href="https://github.com/Variable-Interactive/PixeloramaDiscordRPC/releases"><img src="https://img.shields.io/github/downloads/Variable-Interactive/PixeloramaDiscordRPC/total?color=lightgreen" alt="DiscordRPC"/></a> |
 | ExtensionCreator | <a href="https://github.com/Variable-Interactive/ExtensionCreator/releases"><img src="https://img.shields.io/github/downloads/Variable-Interactive/ExtensionCreator/total?color=lightgreen" alt="ExtensionCreator"/></a> |
 | KeyDisplay | <a href="https://github.com/Variable-Interactive/KeyDisplay/releases"><img src="https://img.shields.io/github/downloads/Variable-Interactive/KeyDisplay/total?color=lightgreen" alt="KeyDisplay"/></a> |
